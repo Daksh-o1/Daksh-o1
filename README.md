@@ -8,7 +8,7 @@
 - 🔥 Strongest in **Python**, but also skilled in **JavaScript, React, Node.js, MongoDB, SQL, HTML, CSS**
 - 🚀 Passionate about building apps and solving real-world problems
 - 💡 Always learning and experimenting with new tech
-- 📫 Reach me at: **your-email@example.com** (replace with your real one)
+- 📫 Reach me at: **dakshverma7898@gmail.com** 
 
 ---
 
