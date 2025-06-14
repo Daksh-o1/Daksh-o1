@@ -5,10 +5,10 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Android Studio** (Java/Kotlin)
-- 🔥 Strongest in **Python**, but also skilled in **C, JavaScript, React, Node.js, MongoDB, SQL**
-- 🚀 Passionate about building apps and automating boring stuff
-- 💡 Always learning something new — from ethical hacking to backend APIs
-- 📫 Reach me at: **dakshverma7898@gmail.com** 
+- 🔥 Strongest in **Python**, but also skilled in **JavaScript, React, Node.js, MongoDB, SQL, HTML, CSS**
+- 🚀 Passionate about building apps and solving real-world problems
+- 💡 Always learning and experimenting with new tech
+- 📫 Reach me at: **your-email@example.com** (replace with your real one)
 
 ---
 
@@ -39,5 +39,4 @@
 
 ### 🔗 Connect with Me
 - 🌐 Portfolio: [Coming Soon...]
-- 💼 LinkedIn: [Add your link here]
-
+- 💼 LinkedIn: [linkedin.com/in/daksh-dev](https://linkedin.com/in/daksh-dev)
